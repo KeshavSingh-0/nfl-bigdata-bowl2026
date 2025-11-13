@@ -1,5 +1,6 @@
 # This is literally someone else's implementation. 
 # I am just using this to what an implementation would look like.
+# https://www.kaggle.com/code/werwar23414141231/lstm-with-peephole/notebook
 
 # This Python 3 environment comes with many helpful analytics libraries installed
 # It is defined by the kaggle/python Docker image: https://github.com/kaggle/docker-python
